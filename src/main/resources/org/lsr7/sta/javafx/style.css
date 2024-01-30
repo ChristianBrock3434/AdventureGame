@@ -1,0 +1,15 @@
+.vbox-example {
+    -fx-alignment: center;
+}
+
+.label {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FF0000;
+}
+
+.button {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #0000FF;
+}
